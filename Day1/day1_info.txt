@@ -8,3 +8,9 @@ Day1 Exercise
 	-> Decoder
 
 2) Simple TestBench Testing
+3) Simple Linting
+4) Simple Synthesis
+5) Some Diagrams
+
+
+
