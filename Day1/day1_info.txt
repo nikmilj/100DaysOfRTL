@@ -1,0 +1,10 @@
+Note:
+
+Day1 Exercise
+
+1) Creating Simple Combinatorial Logic
+	-> Multiplexers
+	-> Encoder
+	-> Decoder
+
+2) Simple TestBench Testing
